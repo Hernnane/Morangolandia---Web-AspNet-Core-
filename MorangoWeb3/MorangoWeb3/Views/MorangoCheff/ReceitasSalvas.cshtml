@@ -1,0 +1,120 @@
+﻿@model IEnumerable<ReceitasModel> // A model que será passada para a View, que contém um IEnumerable de Receitas
+
+@{
+    ViewData["Title"] = "Receitas Salvas"; // Define o título da página
+}
+
+<tbody>
+    <!-- Botão fixo para adicionar uma nova receita -->
+    <a asp-controller="MorangoCheff" asp-action="AdicionarReceita" class="button-fixed" role="button">
+        <img style="max-width: 200px; max-height:200px" src="\img\icons\nova.png" />
+    </a>
+
+    <!-- Barra fixa no fundo com botões de navegação -->
+    <div class="fixed-bottom-bar text-center main-barra">
+        <div>
+            <img src="" />
+            <!-- Exibe o nome do usuário logado -->
+            <span style="color: white; padding-left: 30px" id="usuario-logado">@@@User.Identity.Name.ToLower()</span>
+        </div>
+
+        <div class="center-buttons">
+            <!-- Botões de navegação entre as páginas -->
+            <a asp-controller="MorangoCheff" asp-action="Index" role="button">
+                <img style="max-width: 80px; max-height:80px" src="\img\icons\receitas.png" />
+            </a>
+            <a asp-controller="MorangoCheff" asp-action="MinhasReceitas" role="button">
+                <img style="max-width: 80px; max-height:80px" max-height="100px" src="\img\icons\minhas.png" />
+            </a>
+            <a asp-controller="MorangoCheff" asp-action="ReceitasSalvas" role="button">
+                <img style="max-width: 80px; max-height:80px" src="\img\icons\salvas.png" />
+            </a>
+            <a asp-controller="MorangoCheff" asp-action="MeuPerfil" role="button">
+                <img style="max-width: 80px; max-height:80px" src="\img\icons\perfil.png" />
+            </a>
+        </div>
+
+        <!-- Logo na barra inferior direita -->
+        <a asp-controller="MorangoCheff" asp-action="Index" class="right" role="button">
+            <img style="max-width: 100px; max-height:100px" src="\img\icons\logobranca.png" />
+        </a>
+    </div>
+
+    <div style="border-bottom: 1px solid #8e519f; margin-bottom: 30px">
+        <!-- Título da página -->
+        <h1 class="text-center">Receitas Salvas</h1>
+    </div>
+
+    @if (Model != null) // Verifica se o Model não é nulo
+    {
+        @foreach (var item in Model) // Percorre cada item da coleção de receitas
+        {
+            <div class="tabela-receitas content">
+                <table style="border-collapse: collapse; width: 100%">
+                    <tr>
+                        <!-- Exibe a imagem da receita -->
+                        <th rowspan="4" style="width: 25%; height: 200px; padding: 0;">
+                            <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+                                <img src="~/@item.ImagemCaminho" style="width: 100%; height: 100%; object-fit: cover;" />
+                            </div>
+                        </th>
+
+                        <!-- Exibe o título da receita -->
+                        <th colspan="2" style="padding-left: 20px;">
+                            <h3>@item.Titulo</h3>
+                        </th>
+
+                        <!-- Exibe o nome do usuário que publicou -->
+                        <th style="text-align: right; padding-right: 20px;">
+                            <span>@User.Identity.Name.ToLower()</span>
+                        </th>
+                    </tr>
+
+                    <tr>
+                        <!-- Exibe o tipo da receita -->
+                        <td colspan="3" style="padding-left: 20px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+                            <span style="font-size: 20px; background-color: #a7ca38; border-radius: 35px; padding: 10px; color: #fafae8;">
+                                @item.Tipo
+                            </span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <!-- Exibe o nível de dificuldade da receita -->
+                        <td style="padding-left: 20px;">
+                            <span>
+                                @if (item.Nivel >= 1 && item.Nivel <= 3)
+                                {
+                                    <span>Nível: </span>
+                                    <img style="max-width: 50px; max-height: 30px" src="\img\icons\facil.png" />
+                                }
+                                else if (item.Nivel >= 4 && item.Nivel <= 6)
+                                {
+                                    <span>Nível: </span>
+                                    <img style="max-width: 50px; max-height: 30px" src="\img\icons\medio.png" />
+                                }
+                                else if (item.Nivel >= 7 && item.Nivel <= 10)
+                                {
+                                    <span>Nível: </span>
+                                    <img style="max-width: 50px; max-height: 30px" src="\img\icons\dificil.png" />
+                                }
+                            </span>
+                        </td>
+
+                        <!-- Botões de ações (editando, removendo, etc.) -->
+                        <td colspan="2" rowspan="2" style="text-align: right;">
+                            <!-- Aqui podem ser adicionados outros botões de ação, como editar ou remover a receita -->
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <!-- Exibe os ingredientes da receita -->
+                        <td style="padding-left: 20px;">
+                            <span style="font-size: 18px">@item.Ingredientes</span>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        }
+    }
+</tbody>

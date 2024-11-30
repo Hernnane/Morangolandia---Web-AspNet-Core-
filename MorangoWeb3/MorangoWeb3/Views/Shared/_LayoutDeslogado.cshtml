@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Definição do charset para a codificação de caracteres -->
+    <meta charset="utf-8" />
+    <!-- Configuração da viewport para dispositivos móveis -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Título da página, que será dinamicamente preenchido com o valor de "Title" -->
+    <title>@ViewData["Title"] - Web___Morangolandia</title>
+
+    <!-- Link para o CSS do Bootstrap -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <!-- Link para o CSS do site personalizado -->
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <!-- Link para o CSS do estilo adicional do site -->
+    <link rel="stylesheet" href="~/Web___Morangolandia.styles.css" asp-append-version="true" />
+
+    <!-- Link para os ícones do Bootstrap -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css" rel="stylesheet">
+
+    <!-- Conexão com os servidores do Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- Link para a fonte "Quicksand" do Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+
+    <!-- Link para os ícones do Bootstrap (duplo, mas redundante) -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+</head>
+<body>
+    <!-- Cabeçalho da página, com fundo rosa claro -->
+    <header style="background-color: #e4c3dc">
+        <!-- Barra de navegação do site -->
+        <nav class="navbar navbar-expand-sm box-shadow ">
+            <div class="container-fluid">
+                <!-- Logo do site, que ao ser clicado leva à página inicial -->
+                <a class="nav-link text-dark navbar-brand" asp-area="" asp-controller="SimplePages" asp-action="Index">
+                    <img src="\img\icons\logo_1.png" style="max-width: 100px; max-height:100px" />
+                </a>
+
+                <!-- Ícone de 3 pausinhos (hamburger) para abrir o menu de navegação -->
+                <div class="d-flex">
+                    <button class="btn btn-light" type="button" data-bs-toggle="collapse" data-bs-target="#dropdownMenu" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="fas fa-bars"> <img style="max-width: 20px; max-height: 20px" src="/img/static/setabaixo.png" /> </span> <!-- Ícone de hambúrguer -->
+                    </button>
+
+                    <div class="collapse position-absolute bg-white rounded shadow mt-2" id="dropdownMenu" style="z-index: 1050;">
+                        <ul class="navbar-nav p-2">
+                            <!-- Links para as páginas "Sobre Nós" e "Contato" -->
+                            <li class="nav-item"><a class="nav-link text-dark fw-bold" asp-area="" asp-controller="SimplePages" asp-action="SobreNos">Sobre Nós</a></li>
+                            <li class="nav-item"><a class="nav-link text-dark fw-bold" asp-area="" asp-controller="SimplePages" asp-action="Contato">Contato</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Ícone de 3 pausinhos (hamburger) ao lado da logo, para menu de navegação em dispositivos móveis -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span> <!-- Ícone do hambúrguer padrão -->
+                </button>
+
+                <!-- Navbar centralizada -->
+                <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <!-- Links para "MorangoFeira" e "MorangoCheff" -->
+                        <li class="nav-item mx-2">
+                            <a style="text-decoration: none" class="botao-morangolandia" asp-controller="MorangoFeira" asp-action="Index">MorangoFeira</a>
+                        </li>
+                        <li class="nav-item mx-2">
+                            <a style="text-decoration: none" class="botao-morangolandia" asp-controller="MorangoCheff" asp-action="IndexDeslogado">MorangoCheff</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Ícone de Login alinhado à direita -->
+                <div class="d-flex align-items-center">
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav ms-auto">
+                            <li class="nav-item dropdown">
+                                <!-- Ícone de usuário com dropdown para "Entrar" ou "Sair" -->
+                                <a class="nav-link dropdown-toggle" href="#" id="userMenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <i class="bi bi-person-circle" style="font-size: 1.5rem;"></i> <!-- Ícone de perfil -->
+                                </a>
+                                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="userMenu">
+                                    <li>
+                                        <!-- Condicional para exibir "Sair" ou "Entrar" dependendo do estado de autenticação -->
+                                        @if (User.Identity.IsAuthenticated)
+                                        {
+                                            <a class="btn btn-light mx-1 dropdown-item d-inline" asp-controller="Login" asp-action="Logout">Sair</a>
+                                        }
+                                        else
+                                        {
+                                            <a class="btn btn-light mx-1 dropdown-item d-inline" asp-controller="Login" asp-action="Index">Entrar</a>
+                                        }
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+
+            </div>
+        </nav>
+    </header>
+
+    <!-- Corpo principal da página -->
+    <div>
+        <main role="main" class="pb-3">
+            @RenderBody() <!-- Renderiza o conteúdo da view -->
+        </main>
+    </div>
+
+    <!-- Scripts do JQuery, Bootstrap e site.js -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <!-- Renderiza seções de scripts adicionais, se existirem -->
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

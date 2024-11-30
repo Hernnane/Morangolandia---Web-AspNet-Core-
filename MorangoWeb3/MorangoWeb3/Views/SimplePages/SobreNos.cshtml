@@ -1,0 +1,112 @@
+﻿@if (User.Identity.IsAuthenticated == false)
+{
+    Layout = "_LayoutDeslogado";
+      <!-- Se o usuário não estiver autenticado, o layout da página será alterado para "_LayoutDeslogado" -->
+}
+
+@{
+    ViewData["Title"] = "Sobre Nós";
+      <!-- Define o título da página como "Sobre Nós" -->
+}
+
+<body>
+    <!-- Seção sobre a marca -->
+    <section style="text-align" id="apresentacao">
+        <div class="container">
+            <!-- Título da seção "Sobre a Marca" -->
+            <h1 class="text-center" style="border-bottom: 1px solid #8e519f; padding-bottom: 10px">Sobre a Marca</h1><br />
+
+            <div class="row">
+                <!-- Coluna para texto sobre a Morangolandia -->
+                <div class="col-sm-6" style="text-align: right">
+                    <h2>A Morangolandia</h2>
+                    <p>
+                        É a fazenda urbana que está à frente no negócio de produção e comércio de frutas, hortaliças e vegetais.
+                        Nossa marca representa a empresa e torna possível uma conexão mais próxima com nosso público alvo, representando nossos ideais.
+                    </p>
+                </div><!-- col-sm-6 -->
+                <!-- Coluna para a imagem do logo -->
+                <div class="col-sm-6">
+                    <img style="max-width: 200px; max-height: 200px; width:auto; height: auto; padding-top: 30px" src="\img\static\logofundo.png" />
+                </div>
+            </div><!-- row -->
+
+            <div class="row">
+                <!-- Coluna para a imagem dos criadores -->
+                <div class="col-sm-6" style="text-align: right">
+                    <img style="max-width: 200px; max-height: 200px; width:auto; height: auto" src="\img\static\morangolanders.png" />
+                </div><!-- col-sm-6 -->
+                <!-- Coluna para texto sobre os criadores -->
+                <div class="col-sm-6" style="padding-top: 20px">
+                    <h2>Os Criadores</h2>
+                    <p>
+                        Nós somos um grupo de estudantes da faculdade Unip (Universidade Paulista - Polo Paulista) e cursamos Análise e Desenvolvimento de Sistemas.
+                        Juntos, pensamos na Morangolandia para funcionar como um intermédio entre todos nós e nosso público alvo.
+                    </p>
+                </div><!-- col-sm-6 -->
+            </div><!-- row -->
+        </div><!-- container -->
+    </section><!-- seção apresentação -->
+    <!-- Seção sobre o projeto -->
+    <section id="origem" style="margin-top: 30px;padding: 20px; border-radius: 20px; text-align: center">
+        <div class="container">
+            <!-- Título da seção "O Projeto" -->
+            <h1>O Projeto</h1><br />
+
+            <div style="background-color: #e4c3dc; border-radius: 20px; padding: 20px">
+                <!-- Subtítulo "A Origem" -->
+                <h2 style="color: white">A Origem</h2>
+                <p>O desafio do nosso projeto semestral foi baseado em um problema crítico na sociedade: a Insegurança Alimentar. Existem dezenas de milhões de brasileiros sofrendo com essa questão, principalmente após a pandemia da Covid-19 (mais de 70 milhões).</p>
+            </div>
+        </div>
+    </section><!-- seção origem -->
+    <!-- Título para a seção seguinte -->
+    <h1 class="text-center">Como resolver esse problema?</h1>
+
+    <!-- Seção de solução -->
+    <section id="solucao">
+        <div class="container">
+            <div class="row">
+                <!-- Coluna para texto sobre fazendas urbanas -->
+                <div class="col-sm-6" style="text-align: right">
+                    <h2>As Fazendas Urbanas</h2>
+                    <p>
+                        Através das fazendas urbanas, conseguimos trazer para a cidade uma produção mais sustentável e próxima do nosso público.
+                        O nosso objetivo é produzir e vender os nossos produtos a preços acessíveis, vamos crescer de acordo com nossa evolução e investimentos externos, levando a alimentação acessível e saudável para todos.
+                    </p>
+                </div><!-- col-sm-6 -->
+                <!-- Coluna para a imagem relacionada -->
+                <div class="col-sm-6" style="padding-top: 20px">
+                    <img style="max-width: 200px; max-height: 200px; width:auto; height: auto" src="\img\static\producao.png" />
+                </div>
+            </div><!-- row -->
+        </div><!-- container -->
+    </section><!-- seção solução -->
+    <!-- Título da seção "Nossa Fazenda Urbana" -->
+    <h1 class="text-center">Nossa fazenda urbana</h1>
+
+    <!-- Seção sobre a fazenda urbana -->
+    <section id="nossa-fazenda">
+        <div class="container" style="border-bottom: 1px solid #8e519f; padding-bottom: 20px">
+            <div class="row">
+                <!-- Coluna para texto sobre a fazenda na cidade -->
+                <div class="col-sm-6" style="text-align: right">
+                    <h2>Uma Fazenda na Cidade</h2>
+                    <p>
+                        Atualmente, nós estamos localizados em Taboão - São Bernarndo do Campo, onde fica a nossa central e também onde conseguimos cultivar todos os nossos produtos em um imóvel de dois andares.
+                        Através de uma fazenda vertical com separações e muitas prateleiras, conseguimos gerenciar todas as nossas sementes e plantas.
+                    </p>
+                </div><!-- col-sm-6 -->
+                <!-- Coluna para as imagens da fazenda -->
+                <div class="col-sm-2">
+                    <img style="max-width: 200px; max-height: 200px; width:auto; height: auto" src="\img\static\estante1.png" />
+                </div>
+
+                <div class="col-sm-2">
+                    <img style="max-width: 200px; max-height: 200px; width:auto; height: auto" src="\img\static\estante2.png" />
+                </div>
+            </div><!-- row -->
+        </div><!-- container -->
+    </section><!-- seção nossa fazenda -->
+
+</body>

@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Alterar a Senha";
+      <!-- Define o título da página como "Alterar a Senha" -->
+}
+
+<div class="text-center">
+    <h1>Mudança de Senha</h1>  <!-- Título da página -->
+</div>
+
+<!-- Formulário para alteração de senha -->
+<form method="post" asp-controller="Usuario" asp-action="AlterarSenha">
+    <!-- Campo para a senha antiga -->
+    <div class="mb-3">
+        <label for="Senha" class="form-label">Senha Antiga: </label>
+        <input type="password" name="SenhaAntiga" class="form-control" id="Senha" placeholder="Digite a senha antiga.">
+    </div>
+
+    <!-- Campo para a nova senha -->
+    <div class="mb-3">
+        <label for="NovaSenha1" class="form-label">Nova Senha: </label>
+        <input type="password" name="NovaSenha1" class="form-control" id="NovaSenha1" placeholder="Digite a nova senha.">
+    </div>
+
+    <!-- Campo para repetir a nova senha -->
+    <div class="mb-3">
+        <label for="NovaSenha2" class="form-label">Repita a Nova Senha: </label>
+        <input type="password" name="NovaSenha2" class="form-control" id="NovaSenha2" placeholder="Digite novamente sua nova senha.">
+    </div>
+
+    <!-- Botão de envio do formulário -->
+    <button type="submit" class="btn btn-primary">Alterar Senha</button>
+
+    <!-- Link para voltar à página de índice do usuário -->
+    <a asp-controller="Usuario" asp-action="Index" role="button" class="btn btn-dark">Voltar</a>
+</form>

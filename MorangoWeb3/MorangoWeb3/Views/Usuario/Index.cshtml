@@ -1,0 +1,60 @@
+﻿@model MeuPerfilModel
+
+<div class="content">
+    <!-- Cabeçalho do perfil -->
+    <div style="border-bottom: 1px solid #8e519f; margin-bottom: 30px">
+        <h1 class="text-center">Meu Perfil</h1>  <!-- Título da página -->
+    </div>
+
+    <!-- Link para adicionar uma nova receita, com ícone de nova receita -->
+    <a asp-controller="MorangoCheff" asp-action="AdicionarReceita" class="button-fixed" role="button">
+        <img style="max-width: 200px; max-height:200px" src="\img\icons\nova.png" />  <!-- Ícone de nova receita -->
+    </a>
+
+    <!-- Barra fixa inferior com links de navegação -->
+    <div class="fixed-bottom-bar text-center main-barra">
+        <div>
+            <img src="" />  <!-- Espaço para uma imagem, mas está vazio -->
+            <!-- Exibe o nome do usuário logado -->
+            <span style="color: white; padding-left: 30px" id="usuario-logado">
+                @User.Identity.Name.ToLower()
+            </span>
+        </div>
+
+        <div class="center-buttons">
+            <!-- Botões de navegação para várias páginas do site -->
+            <a asp-controller="MorangoCheff" asp-action="Index" role="button">
+                <img style="max-width: 80px; max-height:80px" src="\img\icons\receitas.png" />  <!-- Ícone para a página de receitas -->
+            </a>
+            <a asp-controller="MorangoCheff" asp-action="MinhasReceitas" role="button">
+                <img style="max-width: 80px; max-height:80px" max-height="100px" src="\img\icons\minhas.png" />  <!-- Ícone para a página de receitas do usuário -->
+            </a>
+            <a asp-controller="MorangoCheff" asp-action="ReceitasSalvas" role="button">
+                <img style="max-width: 80px; max-height:80px" src="\img\icons\salvas.png" />  <!-- Ícone para a página de receitas salvas -->
+            </a>
+            <a asp-controller="MorangoCheff" asp-action="MeuPerfil" role="button">
+                <img style="max-width: 80px; max-height:80px" src="\img\icons\perfil.png" />  <!-- Ícone para a página de perfil -->
+            </a>
+        </div>
+        <!-- Link para voltar para a página inicial -->
+        <a asp-controller="MorangoCheff" asp-action="Index" class="right" role="button">
+            <img style="max-width: 100px; max-height:100px" src="\img\icons\logobranca.png" />  <!-- Logo branco -->
+        </a>
+    </div>
+
+    <!-- Exibe as informações do perfil do usuário -->
+    <div class="text-center">
+        <div>
+            <!-- Foto do perfil do usuário, com estilo de círculo -->
+            <img style="max-width: 300px; max-height: 300px; border-radius: 50%" src="~/@Model.FotoPerfilCaminho" alt="Alternate Text" /><br />
+            <!-- Exibe o nome do usuário, apelido e e-mail -->
+            <span>Usuário: @Model.Usuario</span><br />
+            <span>Apelido: @Model.Apelido</span><br />
+            <span>Email: @Model.Email</span>
+        </div>
+
+        <!-- Botões para editar o perfil ou alterar a senha -->
+        <a role="button" asp-controller="Usuario" asp-action="EditarPerfil" asp-route-perfil_="@Model.Id" class="btn btn-primary">Editar Perfil</a>  <!-- Link para editar o perfil -->
+        <a role="button" asp-controller="Usuario" asp-action="AlterarSenha" class="btn btn-warning">Alterar Senha</a>  <!-- Link para alterar a senha -->
+    </div>
+</div>

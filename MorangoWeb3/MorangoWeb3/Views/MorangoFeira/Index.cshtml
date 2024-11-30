@@ -1,0 +1,12 @@
+﻿@if (User.Identity.IsAuthenticated == false)
+{
+    Layout = "_LayoutDeslogado"; // Define um layout diferente para usuários não autenticados
+}
+
+@{
+    ViewData["Title"] = "MorangoFeira"; // Define o título da página como "MorangoFeira"
+}
+
+<h1>MorangoFeira</h1>
+
+<p>Informações sobre o sacolão MorangoFeira</p>

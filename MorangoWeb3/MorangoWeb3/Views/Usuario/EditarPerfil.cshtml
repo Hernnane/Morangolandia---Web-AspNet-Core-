@@ -1,0 +1,40 @@
+﻿@model MeuPerfilModel 
+@{ ViewData["Title"] = "Editar Perfil"; }  <!-- Define o título da página como "Editar Perfil" -->
+
+<!-- Formulário para edição do perfil do usuário -->
+<form method="post" asp-controller="Usuario" asp-action="EditarPerfil">
+
+    <!-- Campos ocultos para enviar informações adicionais ao backend -->
+    <input type="hidden" asp-for="Id"/>  <!-- Envia o ID do usuário (não visível ao usuário) -->
+    <input type="hidden" asp-for="FotoPerfilCaminho" />  <!-- Envia o caminho da foto do perfil -->
+    <input type="hidden" asp-for="Email" />  <!-- Envia o email do usuário -->
+    <input type="hidden" asp-for="UsuarioId" />  <!-- Envia o ID do usuário, provavelmente usado em lógica no backend -->
+    <input type="hidden" asp-for="usuariosModel" />  <!-- Envia o modelo de usuários (se necessário para outras operações) -->
+
+    <!-- Exibe o ID do usuário na página -->
+    <p>ID = @Model.Id</p>
+
+    <!-- Campo para o envio de uma nova imagem de perfil -->
+    <div>
+        <label for="Imagem">Imagem: </label>
+        <input type="file" name="Imagem" class="form-control" />  <!-- Permite que o usuário envie um arquivo de imagem -->
+    </div>
+
+    <!-- Campo para editar o nome de usuário -->
+    <div class="mb-3">
+        <label asp-for="Usuario" class="form-label">Usuário: </label>
+        <input type="text" class="form-control" asp-for="Usuario" id="Usuario" placeholder="Digite seu novo nome de usuário.">
+        <!-- Exibe a mensagem de erro se a validação do campo "Usuario" falhar -->
+        <span asp-validation-for="Usuario" class="text-danger"></span>
+    </div>
+
+    <!-- Campo para editar o apelido -->
+    <div class="mb-3">
+        <label asp-for="Apelido" class="form-label">Apelido: </label>
+        <input type="text" class="form-control" asp-for="Apelido" id="Apelido" placeholder="Digite como você quer que seu nome apareça no seu perfil.">
+    </div>
+
+    <!-- Botão para enviar o formulário com as mudanças -->
+    <button type="submit" class="btn btn-primary">Salvar Mudanças</button>
+
+</form>

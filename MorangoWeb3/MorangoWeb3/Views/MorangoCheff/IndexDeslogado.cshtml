@@ -1,0 +1,26 @@
+﻿@if (User.Identity.IsAuthenticated == false) // Verifica se o usuário não está autenticado
+{
+    Layout = "_LayoutDeslogado"; // Define o layout para usuários deslogados
+}
+@{
+    ViewData["Title"] = "MorangoCheff"; // Define o título da página como "MorangoCheff"
+}
+
+<body class="fundo-frutas">
+    <!-- Caixa centralizada para a mensagem de login -->
+    <div style="
+    background-color: #bf90c0;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    ">
+        <h1>Faça o seu login para acessar as receitas!</h1> <!-- Título da mensagem -->
+        <!-- Botão para redirecionar ao login -->
+        <a role="button" class="btn btn-success" asp-controller="Login" asp-action="Index">Fazer Login</a>
+    </div>
+</body>

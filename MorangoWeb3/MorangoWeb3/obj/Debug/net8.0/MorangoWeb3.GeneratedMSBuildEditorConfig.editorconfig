@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MorangoWeb3
+build_property.RootNamespace = MorangoWeb3
+build_property.ProjectDir = E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/Cadastro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/MorangoCheff/AdicionarReceita.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yYW5nb0NoZWZmXEFkaWNpb25hclJlY2VpdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/MorangoCheff/EditarReceita.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yYW5nb0NoZWZmXEVkaXRhclJlY2VpdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/MorangoCheff/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yYW5nb0NoZWZmXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/MorangoCheff/IndexDeslogado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yYW5nb0NoZWZmXEluZGV4RGVzbG9nYWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/MorangoCheff/MinhasReceitas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yYW5nb0NoZWZmXE1pbmhhc1JlY2VpdGFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/MorangoCheff/ReceitasSalvas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yYW5nb0NoZWZmXFJlY2VpdGFzU2FsdmFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/MorangoFeira/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yYW5nb0ZlaXJhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/SimplePages/Contato.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2ltcGxlUGFnZXNcQ29udGF0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/SimplePages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2ltcGxlUGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/SimplePages/SobreNos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2ltcGxlUGFnZXNcU29icmVOb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/Usuario/AlterarSenha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xBbHRlcmFyU2VuaGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/Usuario/EditarPerfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0YXJQZXJmaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-iz9o0j64w0
+
+[E:/MorangoWeb - Final I/MorangoWeb3/MorangoWeb3/Views/Shared/_LayoutDeslogado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREZXNsb2dhZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kza8in1eor

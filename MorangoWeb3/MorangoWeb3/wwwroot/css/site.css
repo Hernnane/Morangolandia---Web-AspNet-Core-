@@ -1,0 +1,211 @@
+/* Define estilo padrão para as tags <body> e <html>, removendo margens e preenchimentos, 
+   além de garantir que ocupem 100% da largura e altura da janela. */
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Aplica efeitos visuais para elementos com foco, como botões, links e controles de formulário. */
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+/* Define estilos para títulos h1. */
+h1 {
+    font-size: 46px;
+    color: #8e519f;
+}
+
+/* Define estilos para títulos h2, com cor alterada usando !important. */
+h2 {
+    color: #a7ca38 !important;
+}
+
+/* Fundo com imagem temática de frutas, cobrindo toda a área e centralizando-a. */
+.fundo-frutas {
+    background-image: url('/img/static/fundofrutas.jpg');
+    background-size: cover; /* Faz a imagem cobrir toda a área */
+    background-position: center; /* Centraliza a imagem no fundo */
+}
+
+/* Define configurações gerais do corpo da página. */
+body {
+    background-color: #fafae8;
+    font-family: 'Quicksand', serif;
+}
+
+/* Barra fixa de botões inferior, com cantos arredondados e alinhamento personalizado. */
+.fixed-bottom-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #8e519f;
+    border-radius: 35px 35px 0 0;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between; /* Alinha os itens nas extremidades */
+    align-items: center;
+    gap: 10px;
+    margin: 0;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
+    z-index: 10000; /* Garante que a barra estará acima de outros elementos */
+}
+
+    /* Centraliza botões dentro da barra fixa. */
+    .fixed-bottom-bar .center-buttons {
+        display: flex;
+        justify-content: center; /* Centraliza os botões do meio */
+        gap: 10px; /* Espaçamento entre os botões */
+        flex-grow: 1; /* Faz com que ocupe o máximo de espaço disponível */
+        padding-left: 30px;
+    }
+
+    /* Alinha elementos do lado direito na barra fixa. */
+    .fixed-bottom-bar .right {
+        margin-left: auto; /* Empurra este botão para a direita */
+        padding-right: 30px;
+    }
+
+/* Estilização para um botão fixo (Adicionar Receita). */
+.button-fixed {
+    position: fixed;
+    right: 50px; /* Distância do lado direito da tela */
+    bottom: 120px; /* Distância da barra de botões inferior */
+    z-index: 1001; /* Para ficar acima de outros elementos */
+    transition: box-shadow 0.3s ease; /* Animação suave ao passar o mouse */
+}
+
+/* Estilos para cabeçalhos dentro de uma tabela de receitas. */
+.tabela-receitas h3 {
+    font-size: 38px;
+    color: #bf90c0;
+}
+
+/* Ajusta o posicionamento do conteúdo para não sobrepor a barra fixa inferior. */
+.content {
+    position: relative; /* Permite usar z-index */
+    z-index: 1; /* Garante que o conteúdo ficará acima da barra de botões */
+    padding-bottom: 50px; /* Adiciona espaço abaixo do conteúdo */
+}
+
+/* Botões estilizados com tema específico. */
+.botao-morangolandia {
+    background-color: #8e519f !important;
+    padding: 10px;
+    color: #fafae8;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+    /* Estilo ao passar o mouse nos botões. */
+    .botao-morangolandia:hover {
+        background-color: black;
+    }
+
+/* Banner inicial com uma imagem de fundo ocupando a tela inteira. */
+#banner-inicial {
+    background-image: url('/img/static/inicio.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Altura total da tela */
+    display: flex;
+    align-items: center; /* Alinha verticalmente */
+    justify-content: center; /* Alinha horizontalmente */
+    color: white;
+}
+
+    /* Estiliza título no banner inicial. */
+    #banner-inicial h1 {
+        font-size: 100px;
+        font-weight: 600;
+    }
+
+/* Banner com imagem específica para a seção Morangocheff. */
+#banner-morangocheff {
+    background-image: url('/img/static/morangocheff.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+    /* Estiliza título dentro do banner Morangocheff. */
+    #banner-morangocheff h1 {
+        font-size: 62px;
+        color: white;
+    }
+
+/* Banner com imagem específica para a seção Morangofeira. */
+#banner-morangofeira {
+    background-image: url('/img/static/morangofeira.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+    /* Estiliza título dentro do banner Morangofeira. */
+    #banner-morangofeira h1 {
+        font-size: 62px;
+        color: white;
+    }
+
+/* Ajusta o layout para telas menores que 768px. */
+@media (max-width: 767px) {
+    .fixed-bottom-bar {
+        flex-direction: column; /* Coloca os botões em uma coluna */
+        align-items: center;
+    }
+
+    .fixed-bottom-bar a {
+        width: 90%; /* Botões ocupam quase toda a largura */
+    }
+
+    #banner-inicial h1{
+        font-size: 65px;
+    }
+
+    #apresentacao{
+        text-align: center !important;
+    }
+
+    .tabelas-receita table tr th div img{
+        max-width: 50px;
+        max-height: 50px;
+    }
+
+    .button-fixed {
+        right: 10px; /* Reduz a distância da lateral direita */
+        bottom: 80px; /* Ajusta para não sobrepor a barra fixa */
+    }
+
+    .fixed-bottom-bar {
+        flex-direction: column; /* Botões em coluna */
+        align-items: center;
+    }
+
+        .fixed-bottom-bar a {
+            width: 90%; /* Botões ocupam quase toda a largura */
+            margin: 5px 0; /* Espaçamento entre os botões */
+        }
+
+}
+
+/* Define o tamanho da fonte base para telas maiores que 768px. */
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}

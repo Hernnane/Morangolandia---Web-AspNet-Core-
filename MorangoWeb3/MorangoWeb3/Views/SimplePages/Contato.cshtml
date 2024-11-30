@@ -1,0 +1,13 @@
+﻿@if (User.Identity.IsAuthenticated == false)
+{
+    Layout = "_LayoutDeslogado";
+}
+@{
+    ViewData["Title"] = "Contato";
+}
+
+<h1>Fale Conosco!</h1>
+
+<form>
+    <p>Formulário de contato aqui</p>
+</form>

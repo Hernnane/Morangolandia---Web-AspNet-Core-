@@ -1,0 +1,322 @@
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\appsettings.Development.json
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\appsettings.json
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\MorangoWeb3.staticwebassets.runtime.json
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\MorangoWeb3.exe
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\MorangoWeb3.deps.json
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\MorangoWeb3.runtimeconfig.json
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\MorangoWeb3.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\MorangoWeb3.pdb
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Azure.Core.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Azure.Identity.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\EntityFramework.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Humanizer.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.CodeDom.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Memory.Data.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.csproj.AssemblyReference.cache
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.GeneratedMSBuildEditorConfig.editorconfig
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.AssemblyInfoInputs.cache
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.AssemblyInfo.cs
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.csproj.CoreCompileInputs.cache
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.MvcApplicationPartsAssemblyInfo.cache
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.RazorAssemblyInfo.cache
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.RazorAssemblyInfo.cs
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\staticwebassets.build.json
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\staticwebassets.development.json
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\staticwebassets\msbuild.MorangoWeb3.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\staticwebassets\msbuild.build.MorangoWeb3.props
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MorangoWeb3.props
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MorangoWeb3.props
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\staticwebassets.pack.json
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutDeslogado.cshtml.rz.scp.css
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\scopedcss\bundle\MorangoWeb3.styles.css
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\scopedcss\projectbundle\MorangoWeb3.bundle.scp.css
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoW.D8D9ABD2.Up2Date
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\refint\MorangoWeb3.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.pdb
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.genruntimeconfig.cache
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\ref\MorangoWeb3.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\FluentValidation.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\MorangoWeb3\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.MvcApplicationPartsAssemblyInfo.cs
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\appsettings.Development.json
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\appsettings.json
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\MorangoWeb3.staticwebassets.runtime.json
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\MorangoWeb3.exe
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\MorangoWeb3.deps.json
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\MorangoWeb3.runtimeconfig.json
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\MorangoWeb3.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\MorangoWeb3.pdb
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Azure.Core.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Azure.Identity.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\EntityFramework.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\FluentValidation.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Humanizer.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.CodeDom.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Memory.Data.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.csproj.AssemblyReference.cache
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.GeneratedMSBuildEditorConfig.editorconfig
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.AssemblyInfoInputs.cache
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.AssemblyInfo.cs
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.csproj.CoreCompileInputs.cache
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.MvcApplicationPartsAssemblyInfo.cs
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.MvcApplicationPartsAssemblyInfo.cache
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.RazorAssemblyInfo.cache
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.RazorAssemblyInfo.cs
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\staticwebassets.build.json
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\staticwebassets.development.json
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\staticwebassets\msbuild.MorangoWeb3.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\staticwebassets\msbuild.build.MorangoWeb3.props
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MorangoWeb3.props
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MorangoWeb3.props
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\staticwebassets.pack.json
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutDeslogado.cshtml.rz.scp.css
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\scopedcss\bundle\MorangoWeb3.styles.css
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\scopedcss\projectbundle\MorangoWeb3.bundle.scp.css
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoW.D8D9ABD2.Up2Date
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\refint\MorangoWeb3.dll
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.pdb
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\MorangoWeb3.genruntimeconfig.cache
+E:\MorangoWeb - Final I\MorangoWeb3\MorangoWeb3\obj\Debug\net8.0\ref\MorangoWeb3.dll

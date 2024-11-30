@@ -1,0 +1,449 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MorangoWeb3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MorangoWeb3.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Perfil\\Eu.jpeg",
+      "PackagePath": "staticwebassets\\img\\Perfil\\Eu.jpeg"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Perfil\\caio.jpeg",
+      "PackagePath": "staticwebassets\\img\\Perfil\\caio.jpeg"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Perfil\\perfil-padrao.png",
+      "PackagePath": "staticwebassets\\img\\Perfil\\perfil-padrao.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Receitas\\09926bcb-97e0-4831-ab62-263c6884226f.jpg",
+      "PackagePath": "staticwebassets\\img\\Receitas\\09926bcb-97e0-4831-ab62-263c6884226f.jpg"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Receitas\\2c877f38-77e3-4224-ad74-2e2263c921a8.jpg",
+      "PackagePath": "staticwebassets\\img\\Receitas\\2c877f38-77e3-4224-ad74-2e2263c921a8.jpg"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Receitas\\2ef8ff47-0499-47f6-9659-31b8a413a086.jfif",
+      "PackagePath": "staticwebassets\\img\\Receitas\\2ef8ff47-0499-47f6-9659-31b8a413a086.jfif"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Receitas\\4100fd02-95eb-44db-b1d6-01e94e15abde.png",
+      "PackagePath": "staticwebassets\\img\\Receitas\\4100fd02-95eb-44db-b1d6-01e94e15abde.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Receitas\\4c36ef43-aac8-405c-9480-3e0b87523795.jfif",
+      "PackagePath": "staticwebassets\\img\\Receitas\\4c36ef43-aac8-405c-9480-3e0b87523795.jfif"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Receitas\\59b7df34-1eab-4d09-a5bb-6fe8d5181a70.jpg",
+      "PackagePath": "staticwebassets\\img\\Receitas\\59b7df34-1eab-4d09-a5bb-6fe8d5181a70.jpg"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Receitas\\61e017b4-e1f9-46e4-ae5e-6181527ae76dteste.jfif",
+      "PackagePath": "staticwebassets\\img\\Receitas\\61e017b4-e1f9-46e4-ae5e-6181527ae76dteste.jfif"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Receitas\\779f6492-99ea-4deb-8714-5abe0920a111macarrao.jfif",
+      "PackagePath": "staticwebassets\\img\\Receitas\\779f6492-99ea-4deb-8714-5abe0920a111macarrao.jfif"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Receitas\\a19569fb-271d-45f6-a1e5-b9625b0794c2grupo-pim.jpeg",
+      "PackagePath": "staticwebassets\\img\\Receitas\\a19569fb-271d-45f6-a1e5-b9625b0794c2grupo-pim.jpeg"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Receitas\\ac071025-31ce-452f-b928-891f62da3ba6.jpg",
+      "PackagePath": "staticwebassets\\img\\Receitas\\ac071025-31ce-452f-b928-891f62da3ba6.jpg"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Receitas\\c3215a07-3f6d-4633-9b42-ba5b3a59d6a2.png",
+      "PackagePath": "staticwebassets\\img\\Receitas\\c3215a07-3f6d-4633-9b42-ba5b3a59d6a2.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Receitas\\c5483544-b116-4379-96cf-dfccb7b2c8df.jpg",
+      "PackagePath": "staticwebassets\\img\\Receitas\\c5483544-b116-4379-96cf-dfccb7b2c8df.jpg"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Receitas\\c59b439e-4c58-4f5f-b68e-e8542bb62667.jpg",
+      "PackagePath": "staticwebassets\\img\\Receitas\\c59b439e-4c58-4f5f-b68e-e8542bb62667.jpg"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\Receitas\\d36ffe7d-306f-40ca-9d43-b7ea5d780095.jfif",
+      "PackagePath": "staticwebassets\\img\\Receitas\\d36ffe7d-306f-40ca-9d43-b7ea5d780095.jfif"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\icons\\curtir.png",
+      "PackagePath": "staticwebassets\\img\\icons\\curtir.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\icons\\dificil.png",
+      "PackagePath": "staticwebassets\\img\\icons\\dificil.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\icons\\editar.png",
+      "PackagePath": "staticwebassets\\img\\icons\\editar.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\icons\\facil.png",
+      "PackagePath": "staticwebassets\\img\\icons\\facil.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\icons\\logo_1.png",
+      "PackagePath": "staticwebassets\\img\\icons\\logo_1.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\icons\\logobranca.png",
+      "PackagePath": "staticwebassets\\img\\icons\\logobranca.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\icons\\medio.png",
+      "PackagePath": "staticwebassets\\img\\icons\\medio.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\icons\\minhas.png",
+      "PackagePath": "staticwebassets\\img\\icons\\minhas.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\icons\\nova.png",
+      "PackagePath": "staticwebassets\\img\\icons\\nova.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\icons\\perfil.png",
+      "PackagePath": "staticwebassets\\img\\icons\\perfil.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\icons\\perfilnav.png",
+      "PackagePath": "staticwebassets\\img\\icons\\perfilnav.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\icons\\receitas.png",
+      "PackagePath": "staticwebassets\\img\\icons\\receitas.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\icons\\salvar.png",
+      "PackagePath": "staticwebassets\\img\\icons\\salvar.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\icons\\salvas.png",
+      "PackagePath": "staticwebassets\\img\\icons\\salvas.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\icons\\setabaixo.png",
+      "PackagePath": "staticwebassets\\img\\icons\\setabaixo.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\static\\acesse.png",
+      "PackagePath": "staticwebassets\\img\\static\\acesse.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\static\\conheca.png",
+      "PackagePath": "staticwebassets\\img\\static\\conheca.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\static\\estante1.png",
+      "PackagePath": "staticwebassets\\img\\static\\estante1.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\static\\estante2.png",
+      "PackagePath": "staticwebassets\\img\\static\\estante2.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\static\\fundofrutas.jpg",
+      "PackagePath": "staticwebassets\\img\\static\\fundofrutas.jpg"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\static\\inicio.jpg",
+      "PackagePath": "staticwebassets\\img\\static\\inicio.jpg"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\static\\logofundo.png",
+      "PackagePath": "staticwebassets\\img\\static\\logofundo.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\static\\morangocheff.jpg",
+      "PackagePath": "staticwebassets\\img\\static\\morangocheff.jpg"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\static\\morangocheffmini.jpg",
+      "PackagePath": "staticwebassets\\img\\static\\morangocheffmini.jpg"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\static\\morangofeira.jpg",
+      "PackagePath": "staticwebassets\\img\\static\\morangofeira.jpg"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\static\\morangolanders.png",
+      "PackagePath": "staticwebassets\\img\\static\\morangolanders.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\static\\producao.png",
+      "PackagePath": "staticwebassets\\img\\static\\producao.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\static\\saiba.png",
+      "PackagePath": "staticwebassets\\img\\static\\saiba.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\img\\static\\setabaixo.png",
+      "PackagePath": "staticwebassets\\img\\static\\setabaixo.png"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\MorangoWeb - Final I\\MorangoWeb3\\MorangoWeb3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MorangoWeb3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MorangoWeb3.props",
+      "PackagePath": "build\\MorangoWeb3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MorangoWeb3.props",
+      "PackagePath": "buildMultiTargeting\\MorangoWeb3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MorangoWeb3.props",
+      "PackagePath": "buildTransitive\\MorangoWeb3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

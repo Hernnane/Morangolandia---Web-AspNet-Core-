@@ -1,0 +1,63 @@
+﻿@model ReceitasModel // Define o modelo da view como ReceitasModel
+
+@{
+    ViewData["Title"] = "Editar Receita"; // Define o título da página como "Editar Receita"
+}
+
+<div class="text-center">
+    <h1 class="display-4">Editar Receita</h1> <!-- Título principal da página -->
+</div>
+
+<form method="post" asp-controller="MorangoCheff" asp-action="EditarReceita" enctype="multipart/form-data">
+    <!-- Formulário para editar a receita com método POST e controlador "MorangoCheff" e ação "EditarReceita" -->
+    <!-- Campo oculto para o ID da receita -->
+    <input type="hidden" asp-for="Id" />
+
+    <!-- Campo oculto para o caminho da imagem da receita -->
+    <input type="hidden" asp-for="ImagemCaminho" />
+
+    <!-- Campo para Título -->
+    <div class="mb-3">
+        <label class="form-label">Título: </label>
+        <input asp-for="Titulo" type="text" class="form-control" placeholder="Insira o título da receita">
+        <span asp-validation-for="Titulo" class="text-danger"></span> <!-- Exibe mensagem de erro para o campo Titulo -->
+    </div>
+
+    <!-- Campo para Tipo -->
+    <div class="mb-3">
+        <label class="form-label">Tipo: </label>
+        <input asp-for="Tipo" type="text" class="form-control" placeholder="Para casais / Para avós / Na Pressa">
+        <span asp-validation-for="Tipo" class="text-danger"></span> <!-- Exibe mensagem de erro para o campo Tipo -->
+    </div>
+
+    <!-- Campo para Nível -->
+    <div class="mb-3">
+        <label class="form-label">Nível: </label>
+        <input asp-for="Nivel" type="number" class="form-control" placeholder="Qual o nível de dificuldade dessa receita de 0 a 10?">
+        <span asp-validation-for="Nivel" class="text-danger"></span> <!-- Exibe mensagem de erro para o campo Nivel -->
+    </div>
+
+    <!-- Campo para Ingredientes -->
+    <div class="mb-3">
+        <label class="form-label">Ingredientes: </label>
+        <input asp-for="Ingredientes" type="text" class="form-control" placeholder="Insira os ingredientes da receita">
+        <span asp-validation-for="Ingredientes" class="text-danger"></span> <!-- Exibe mensagem de erro para o campo Ingredientes -->
+    </div>
+
+    <!-- Campo para Descrição -->
+    <div class="mb-3">
+        <label class="form-label">Descrição: </label>
+        <input asp-for="Descricao" type="text" class="form-control" placeholder="Descreva o processo de preparo da receita">
+        <span asp-validation-for="Descricao" class="text-danger"></span> <!-- Exibe mensagem de erro para o campo Descricao -->
+    </div>
+
+    <!-- Campo para Imagem -->
+    <div class="custom-file col d-block mt-3">
+        <label class="text-muted mb-0">Imagem: </label>
+        <input type="file" name="Imagem" class="form-control" accept="image/*" /> <!-- Permite upload de imagem -->
+        <span asp-validation-for="ImagemCaminho" class="text-danger"></span> <!-- Exibe mensagem de erro para o campo ImagemCaminho -->
+    </div>
+
+    <!-- Botão de envio para confirmar a edição -->
+    <button type="submit" class="btn btn-primary">Confirmar Edição</button>
+</form>

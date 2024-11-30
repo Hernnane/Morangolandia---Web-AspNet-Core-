@@ -1,0 +1,65 @@
+﻿@if (User.Identity.IsAuthenticated == false)
+{
+    Layout = "_LayoutDeslogado";
+      <!-- Se o usuário não estiver autenticado, define um layout alternativo (não logado) -->
+}
+
+@{
+    ViewData["Title"] = "Home";
+      <!-- Define o título da página como "Home" -->
+}
+
+<body>
+    <!-- Seção do banner inicial -->
+    <section id="banner-inicial">
+        <div class="text-center">
+            <!-- Título da seção -->
+            <h1>Inovando, Produzindo e Ajudando</h1>
+
+            <!-- Botão que leva à página "Sobre Nós" -->
+            <a role="button" class="btn border-0" style="color: white;font-size: 28px;background-color: #bf90c0;border-radius: 30px; padding: 10px" asp-controller="SimplePages" asp-action="SobreNos">
+                <img style="max-width: 200px; max-height: 200px" src="/img/static/conheca.png" /> <!-- Imagem dentro do botão -->
+            </a>
+
+            <br />
+            <br />
+            <br />
+
+            <!-- Imagem de seta apontando para baixo -->
+            <p><img src="/img/static/setabaixo.png" /></p>
+        </div>
+    </section>
+
+    <!-- Seção do banner MorangoCheff -->
+    <section id="banner-morangocheff">
+        <div class="text-center">
+            <!-- Título da seção -->
+            <h1>MorangoCheff</h1>
+
+            <!-- Descrição do MorangoCheff -->
+            <p>Acesse as receitas disponíveis em nosso site! Diversifique sua alimentação e adquira novas receitas.</p>
+
+            <!-- Botão que leva à página "MorangoCheff" -->
+            <a role="button" class="btn border-0" asp-controller="Morangocheff" asp-action="Index">
+                <img style="max-width: 200px; max-height: 200px" src="/img/static/acesse.png" /> <!-- Imagem dentro do botão -->
+            </a>
+        </div>
+    </section>
+
+    <!-- Seção do banner MorangoFeira -->
+    <section id="banner-morangofeira">
+        <div class="text-center">
+            <!-- Título da seção -->
+            <h1>MorangoFeira</h1>
+
+            <!-- Descrição do MorangoFeira -->
+            <p>Conheça o projeto MorangoFeira. Com ele temos contato direto com nosso público e praticamos nossos objetivos sociais.</p>
+
+            <!-- Botão que leva à página "MorangoFeira" -->
+            <a role="button" class="btn border-0" asp-controller="MorangoFeira" asp-action="Index">
+                <img style="max-width: 200px; max-height: 200px" src="/img/static/saiba.png" /> <!-- Imagem dentro do botão -->
+            </a>
+        </div>
+    </section>
+
+</body>
